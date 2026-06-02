@@ -19,4 +19,8 @@ Iris dataset — class 0 vs class 1 (binary)
 Features used: 2 (sepal length, sepal width)
 
 ## Results
-Accuracy: ~100% (classes are linearlInitialized empty Git repository in /Users/dhull/deep-learning-from-scratch/.git/y separable)
+Accuracy: ~100% (classes are linearlInitialized empty Git repository in /Users/dhull/deep-learning-from-scratch/.git/ 53aa66b] implement perceptron from scratch with numpy
+ 2 files changed, 88 insertions(+)
+ create mode 100644 01_perceptron/README.md
+ create mode 100644 01_perceptron/perceptron.py
+dhull@DHULLs-MacBook-Air deep-learning-from-scratch % y separable)
